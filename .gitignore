@@ -1,0 +1,12 @@
+
+.vscode/
+
+.directory
+
+debug.log
+
+js-functions.js
+
+switsh-case.js
+
+!.gitignore
